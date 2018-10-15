@@ -87,10 +87,13 @@ Naming Conventions:
 
 All variables, methods, and resource IDs are descriptively named so that another developer reading the code can easily understand their function.
 
-![screenshot_20181014-222014](https://user-images.githubusercontent.com/34723009/46941501-f3820100-d073-11e8-9b62-cf5105b8437d.png)
-![screenshot_20181014-222019](https://user-images.githubusercontent.com/34723009/46941513-f54bc480-d073-11e8-8bc3-23f2227270b9.png)
-![screenshot_20181014-222031](https://user-images.githubusercontent.com/34723009/46941516-f67cf180-d073-11e8-9db1-3e3c3c988657.png)
-![screenshot_20181014-222039](https://user-images.githubusercontent.com/34723009/46941518-f7ae1e80-d073-11e8-88c8-3a8f40da9290.png)
+![screenshot_20181015-133659](https://user-images.githubusercontent.com/34723009/46946270-dfdc9780-d07f-11e8-8a3c-02dc25b3b22b.png)
+
+![screenshot_20181015-133709](https://user-images.githubusercontent.com/34723009/46946277-e2d78800-d07f-11e8-8c51-81b2436308f7.png)
+
+![screenshot_20181015-133714](https://user-images.githubusercontent.com/34723009/46946287-e703a580-d07f-11e8-8b21-1577601dfbd9.png)
+
+![screenshot_20181015-133720](https://user-images.githubusercontent.com/34723009/46946311-f4b92b00-d07f-11e8-9806-4157e17511ff.png)
 
 
 
